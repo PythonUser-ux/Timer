@@ -5,7 +5,7 @@ This is a simple console timer with simple functionality to monitor your product
 ```python
 if volume_test
 ```
-two beeps will test the current volume and frequency of the timer(s) sound when the app is launched.
+two beeps will test the current volume and frequency of the timer(s) sound when the script is launched.
 
 ## When started:
 
