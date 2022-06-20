@@ -17,4 +17,4 @@ two beeps will test the current volume and frequency of the timer(s) sound when 
 
 - Input -2 and then a positive number n if you want to start a sequence of n identical timers.
 
-- Wait until your timers go off.
+- Wait until all your timers go off.
